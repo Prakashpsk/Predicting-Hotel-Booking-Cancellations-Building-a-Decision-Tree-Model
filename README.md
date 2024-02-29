@@ -56,4 +56,4 @@ The project successfully built a decision tree model to predict hotel booking ca
 - Inspiration for modeling techniques and data analysis methods comes from various online resources and educational materials.
 
 ## About the Author
-[Author Name] is a [insert_role] with expertise in [insert_expertise]. Feel free to reach out for any questions or collaborations.
+[Prakash.P] is a [Data Scientist] with expertise in [Modeling]. Feel free to reach out for any questions or collaborations[prakash2822001@gmail.com].
