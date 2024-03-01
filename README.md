@@ -52,8 +52,8 @@ The project successfully built a decision tree model to predict hotel booking ca
 4. Follow the instructions within the notebook/script to perform data analysis and train the model.
 
 ## Credits
-- The dataset used in this project is provided by [insert_dataset_source].
-- Inspiration for modeling techniques and data analysis methods comes from various online resources and educational materials.
+- Dataset: https://github.com/Prakashpsk/Predicting-Hotel-Booking-Cancellations-Building-a-Decision-Tree-Model/blob/main/hotel%20(1).csv
+- Libraries: scikit-learn, pandas, matplotlib, seaborn
 
 ## About the Author
 [Prakash.P] is a [Data Scientist] with expertise in [Modeling]. Feel free to reach out for any questions or collaborations[prakash2822001@gmail.com].
